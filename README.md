@@ -2,7 +2,7 @@
 **Course:** CSc 30400 — Theory of Computation  
 **Professor:** Jordan Matuszewski  
 
-**Turing_Machine-Project [MIDTERM]
+## Turing_Machine-Project [MIDTERM]
 
 
 ## Summary
